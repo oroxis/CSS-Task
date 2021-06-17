@@ -1,0 +1,30 @@
+
+h1 {
+    font-family: 'Lexend Deca', sans-serif;
+    color: hsla(0, 0%, 100%, 0.75);
+    font-size: 25px;
+    font-weight: 700;
+}
+
+p {font-family: 'Lexend Deca', sans-serif;
+    color: hsla(0, 0%, 100%, 0.75);
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 30px;
+
+}
+button {
+    width: 100px; 
+    height: 45px; 
+    border-radius: 40%;
+    color: hsl(31, 77%, 52%);
+    font-family:'Lexend Deca', sans-serif;
+    font-size: 15px;
+    border-width: 0ch;
+    
+}
+body {
+    background-color: hsl(31, 77%, 52%); 
+    size: 1440px;}
+
+Bright orange: 
