@@ -1,6 +1,9 @@
 
+h1, p {color: aliceblue;}
+
+
 h1 {
-    font-family: 'Lexend Deca', sans-serif;
+    font-family: 'Big Shoulders Display', cursive;
     color: hsla(0, 0%, 100%, 0.75);
     font-size: 25px;
     font-weight: 700;
@@ -16,15 +19,36 @@ p {font-family: 'Lexend Deca', sans-serif;
 button {
     width: 100px; 
     height: 45px; 
-    border-radius: 40%;
+    border-radius: 40px;
     color: hsl(31, 77%, 52%);
     font-family:'Lexend Deca', sans-serif;
     font-size: 15px;
     border-width: 0ch;
+    margin: 24px 15px;
     
 }
-body {
-    background-color: hsl(31, 77%, 52%); 
-    size: 1440px;}
 
-Bright orange: 
+.suvs {color:hsl(179, 100%, 13%);}
+.luxury {color:hsl(184, 100%, 22%);}
+
+.flex-container {display: flex;
+}
+
+.container-sedan {width: 450px;
+height: 600px;
+background-color: hsl(31, 77%, 52%);
+padding: 30px;
+}
+
+.container-luxury {width: 450px;
+    height: 600px;
+    background-color:hsl(179, 100%, 13%);
+    padding: 30px;
+    }
+
+    .container-suvs {width: 450px;
+        height: 600px;
+        background-color:hsl(184, 100%, 22%);
+        padding: 30px;
+        }
+
